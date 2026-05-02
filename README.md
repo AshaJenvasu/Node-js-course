@@ -1,5 +1,7 @@
 # 🚀 My Journey to the Backend with Node.js
 
+This repo is archived. I decided to switch to Smoljames's course for a more fundamental understanding of Backend concepts.
+
 This repository is a dedicated space for my self-study journey into Backend Development. As a **Lifelong Learner** coming from a Frontend background (React/TS), I'm expanding my horizons to become a Full-Stack Engineer.
 
 ## 📚 What I'm Learning
